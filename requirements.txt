@@ -1,2 +1,2 @@
-pip install mathplotlib
+pip install matplotlib
 pip install package-foo
