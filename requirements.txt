@@ -1,2 +1,5 @@
-pip install matplotlib
-pip install package-foo
+numpy
+pandas
+matplotlib
+streamlit
+package-foo
